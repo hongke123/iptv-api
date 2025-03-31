@@ -1,8 +1,16 @@
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
+广东卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gdws
 浙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
+安徽卫视,http://43.129.81.169/live.ahsx.ahtv.cn/live/ahwssx.m3u8
+东南卫视,http://nctv.top/IDOEPpiryt/fjtv.php?id=5
+甘肃卫视,http://43.129.81.169/9bwaz8y2.gzstv.com/live/CH01_lo.m3u8
+贵州卫视,http://43.129.81.169/9bwaz8y2.gzstv.com/live/CH01_lo.m3u8
+河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
+江苏卫视,http://nctv.top/IDOEPpiryt/jstv5.php?id=jsws
+江西卫视,http://43.129.81.169/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
 
